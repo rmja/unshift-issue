@@ -1,0 +1,10 @@
+{
+    "name": "augmenter",
+    "source": "./src/index.ts",
+    "main": "../dist/augmenter.js",
+    "module": "../dist/augmenter.mjs",
+    "types": "../dist/augmenter.d.ts",
+    "dependencies": {
+      "original": "../"
+    }
+  }
